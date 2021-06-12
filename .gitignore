@@ -4,3 +4,4 @@ x.o
 pkg/
 *.pkg.tar.xz
 patches
+.ccls-cache/
